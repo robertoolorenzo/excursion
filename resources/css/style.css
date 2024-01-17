@@ -4,6 +4,7 @@ body {
     text-align: center;
 }
 
+/* HEADINGS */
 
 .header--main {
     font-weight: normal;
@@ -11,6 +12,18 @@ body {
     color: white;
 }
 
+.header--secondary {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.header--sub-header {
+    font-size: 21px;
+    color: gray;
+}
+
+/* LINKS */
 /* cta call stands for call to action */
 .link--cta {
     color: aquamarine;
